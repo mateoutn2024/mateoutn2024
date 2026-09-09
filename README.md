@@ -16,7 +16,7 @@ Construyo aplicaciones web y móviles escalables combinando tipado estricto con 
 ### 🚀 Proyectos Destacados
 
 * **[Portfolio Web](https://tu-portfolio.vercel.app):** Diseñado con Astro y Tailwind CSS v4, logrando máxima velocidad estática y cero dependencias pesadas.
-* **[ComandaFlow](https://github.com/mateoutn2024/TFI-copia-propia.git):** Suite de digitalización gastronómica. Control de mesas vía QR, roles de usuario y comandas en tiempo real vía WebSockets.
+* **[ComandaFlow](https://github.com/mateoutn2024/comanda-flow.git):** Suite de digitalización gastronómica. Control de mesas vía QR, roles de usuario y comandas en tiempo real vía WebSockets.
 * **[SocialHub](https://github.com/mateoutn2024/SocialHub.git):** Arquitectura modular en NestJS con autenticación JWT robusta (refresh tokens, 15m expiry), base de datos MongoDB y dashboard analítico en Angular.
 
 ---
