@@ -21,4 +21,4 @@ Construyo aplicaciones web y móviles escalables combinando tipado estricto con 
 
 ---
 
-📫 **Contacto:** [LinkedIn](www.linkedin.com/in/mateotraynor) • [Portfolio](https://tu-portfolio.vercel.app)
+📫 **Contacto:** [LinkedIn](www.linkedin.com/in/mateotraynor) • [Portfolio](https://portfolio-psi-smoky-8uhd4u1ba2.vercel.app/)
