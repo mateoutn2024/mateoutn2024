@@ -1,4 +1,4 @@
-# Mateo Gigy 👋
+# Mateo Gigy Traynor 👋
 **Full Stack Developer | Estudiante TUP en UTN**
 
 Construyo aplicaciones web y móviles escalables combinando tipado estricto con **TypeScript**, arquitecturas backend limpias en **Node.js/NestJS** e interfaces fluidas en **React / React Native**.
